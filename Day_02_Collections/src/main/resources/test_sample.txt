@@ -1,0 +1,4 @@
+hello world hello
+java is fun java java
+here is a sample code
+test file for word frequency test
